@@ -11,7 +11,7 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 - **Other Skills**: Data cleaning, statistical analysis, ETL processes, problem-solving
 - **Domain Knowledge**: Project management, operations, and tender processes
 
-## Project
+## Projects
 
 ### **1. E-commerce Data Analysis: Target Brazil** - *Using SQL*
 - Conducted SQL-based analysis on **100,000 orders** over **772 days** to uncover key business insights for Target's Brazil operations.  
@@ -22,6 +22,7 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 - Delivered actionable recommendations, including **seasonal promotions**, **region-specific discounts**, and enhanced **personalized e-commerce experiences**, boosting sales and customer satisfaction.  
 
 *Keywords:* SQL, E-commerce Analysis, Customer Segmentation, Delivery Optimization, Payment Trends, Business Insights.
+
 [Git Repo Link](https://github.com/SreeMB/TargetSQL_Brazil)
 
 
@@ -36,7 +37,9 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 - Recommendations: Boost EV adoption by leveraging insights on leading regions, brands, and models while improving range efficiency to meet consumer expectations.  
 
 *Keywords:* Electric Vehicles, BEVs, PHEVs, Growth Trends, Tesla, CAFV Incentives, Geographic Analysis, Consumer Preferences.
+
 [Git Repo Link](https://github.com/SreeMB/EV_Data_Analysis_Tableau)
+
 [Tableau Link](https://public.tableau.com/app/profile/sree.mrudhula.bahadursha/viz/ElectricVehcileDataAnalysis/Dashboard1)
 
 
@@ -50,6 +53,7 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 - Proposed targeted marketing campaigns leveraging popular directors/actors and enhancing Netflix’s reputation as a **rapid TV show acquisition platform**.  
 
 *Keywords:* Data Analysis, Netflix Originals, Global Content Trends, Localized Strategies, TV Show Growth, Audience Insights.
+
 [Git Repo Link](https://github.com/SreeMB/Netflix---Data-Visualization)
 
 
@@ -62,6 +66,7 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 - Recommendations included **targeted marketing campaigns** (social media for KP481, influencer partnerships for KP781), **seasonal promotional offers**, and **community engagement initiatives** to enhance brand loyalty and sales.  
 
 *Keywords:* Customer Segmentation, Data Analytics, Targeted Marketing, Treadmill Sales, Gender Analysis, Income-Based Insights, Product Differentiation.
+
 [Git Repo Lin](https://github.com/SreeMB/Aerofit_Data_Analysis)
 
 ### **5. Walmart Black Friday Customer Purchase Behavior Analysis** - *Using Python, NumPy, Pandas, SciPy, Math, Seaborn, Matplotlib*
@@ -74,5 +79,6 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 - Recommended enhancing promotions for the **most common purchase range (₹5k-₹10k)** and ensuring **consistent quality** for best-selling products to sustain demand and customer loyalty.  
 
 *Keywords:* Customer Segmentation, Black Friday Analysis, Purchase Behavior, Gender Insights, Targeted Marketing, Demand Forecasting, Loyalty Programs, Financial Incentives, Strategic Recommendations.
+
 [Git Repo Link](https://github.com/SreeMB/Wallmart_Data_Analysis)
 
