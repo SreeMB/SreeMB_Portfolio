@@ -13,3 +13,66 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 
 ## Project
 
+### **1. E-commerce Data Analysis: Target Brazil** - *Using SQL*
+- Conducted SQL-based analysis on **100,000 orders** over **772 days** to uncover key business insights for Target's Brazil operations.  
+- Mapped a **4119-city**, **27-state** customer base, identifying São Paulo as the top-performing region for orders and revenue, with significant untapped potential in remote areas like RR and RO.  
+- Unveiled sales seasonality, with **peak sales in November 2017 and January 2018**, attributed to New Year promotions. Recommended strategies to drive sales in off-peak months.  
+- Analyzed delivery patterns; regions like PB, RR, and RO had **highest average delivery times**. Suggested localized warehouses to reduce delays and freight costs.  
+- Payment behavior insights: **Credit cards (most preferred)**, with **1–5 installment plans** dominating. Proposed targeted EMI offers to enhance premium product purchases.  
+- Delivered actionable recommendations, including **seasonal promotions**, **region-specific discounts**, and enhanced **personalized e-commerce experiences**, boosting sales and customer satisfaction.  
+
+*Keywords:* SQL, E-commerce Analysis, Customer Segmentation, Delivery Optimization, Payment Trends, Business Insights.
+[Git Repo Link](https://github.com/SreeMB/TargetSQL_Brazil)
+
+
+### **2. Electric Vehicle Analysis** - *Using Tableau*
+- Analyzed **150,473 total electric vehicles (EVs)**, comprising **116,802 BEVs (77.62%)** and **33,671 PHEVs (22.38%)**, reflecting a clear dominance of fully electric models.  
+- Average electric range: **67.88 miles**, indicating moderate technological advancements in battery capacity and efficiency.  
+- Adoption Trends: Steady growth in EV registrations, peaking at **37,000 vehicles in 2023**, showing increased market acceptance.  
+- Geographic Insights: **California** leads with the highest adoption rate, as shown on the map, emphasizing regional trends in EV uptake.  
+- Top Manufacturers: Tesla dominates with **68,979 vehicles (63.54%)**, followed by Nissan (**13,497 vehicles**) and Chevrolet (**12,025 vehicles**).  
+- Popular Models: Tesla's **Model Y (18.94%)** and **Model 3 (18.41%)** rank as the top EV models.  
+- Incentive Impact: **41.83% of vehicles** eligible for Clean Alternative Fuel Vehicle (CAFV) incentives highlight the influence of policy on adoption.  
+- Recommendations: Boost EV adoption by leveraging insights on leading regions, brands, and models while improving range efficiency to meet consumer expectations.  
+
+*Keywords:* Electric Vehicles, BEVs, PHEVs, Growth Trends, Tesla, CAFV Incentives, Geographic Analysis, Consumer Preferences.
+[Git Repo Link](https://github.com/SreeMB/EV_Data_Analysis_Tableau)
+[Tableau Link](https://public.tableau.com/app/profile/sree.mrudhula.bahadursha/viz/ElectricVehcileDataAnalysis/Dashboard1)
+
+
+### **3. Netflix Content Strategy Analysis** - *Using Python, Seaborn, Matplotlib*
+
+- Conducted data-driven analysis to identify content production and audience trends across **multiple countries**.  
+- Insights revealed **70% of content** is movies, while TV shows are steadily increasing, appealing to **teenagers and adults** as the core audience.  
+- Identified **India as a strong secondary content hub**, especially for international movies and TV shows, while the **US leads in mature-rated content** production.  
+- Analyzed **seasonal content additions**, with peaks in **January and July**, ideal for blockbuster releases.  
+- Recommendations included **boosting TV show production in drama and international genres**, **localizing content strategies**, and increasing investments in **regional and mature-rated content**.  
+- Proposed targeted marketing campaigns leveraging popular directors/actors and enhancing Netflix’s reputation as a **rapid TV show acquisition platform**.  
+
+*Keywords:* Data Analysis, Netflix Originals, Global Content Trends, Localized Strategies, TV Show Growth, Audience Insights.
+[Git Repo Link](https://github.com/SreeMB/Netflix---Data-Visualization)
+
+
+### **4. Aerofit Treadmill Customer Profiling Analysis** - *Using Python, NumPy, Pandas, Seaborn, Matplotlib*
+
+- Conducted **descriptive analytics** and developed **customer profiles** for three treadmill models (KP281, KP481, KP781) based on customer characteristics such as **age, gender, income, marital status, and fitness levels**.  
+- Identified that **52.63% of female customers** prefer KP281, while **31.73% of male customers** prefer KP781, highlighting clear **gender-specific preferences**.  
+- Discovered income-based segmentation, with KP281 buyers averaging **$46,584** and KP781 buyers averaging **$78,587**, emphasizing affordability and premium market appeal.  
+- Analyzed fitness levels, showing **fitness enthusiasts (rating 4-5)** prefer KP781, using it for **130+ miles/week**, while KP281 attracts entry-level users aged **20-30** with basic needs.  
+- Recommendations included **targeted marketing campaigns** (social media for KP481, influencer partnerships for KP781), **seasonal promotional offers**, and **community engagement initiatives** to enhance brand loyalty and sales.  
+
+*Keywords:* Customer Segmentation, Data Analytics, Targeted Marketing, Treadmill Sales, Gender Analysis, Income-Based Insights, Product Differentiation.
+[Git Repo Lin](https://github.com/SreeMB/Aerofit_Data_Analysis)
+
+### **5. Walmart Black Friday Customer Purchase Behavior Analysis** - *Using Python, NumPy, Pandas, SciPy, Math, Seaborn, Matplotlib*
+
+- Analyzed **purchase patterns** of **50 million male** and **50 million female customers** to understand **gender-specific spending habits** and factors influencing purchase behavior.  
+- Identified that **male customers spend more on average** than females, with unmarried customers and the **26-35 age group** being the highest spenders.  
+- Highlighted top-performing categories (1, 5, 8) for prioritized **inventory management and targeted marketing**, while suggesting **streamlining low-demand categories (13, 19, 20)** to optimize resources.  
+- Found **City Categories A and B** have the highest concentration of **26-35-year-olds**, while **City Category C males** outspend counterparts in other cities, driving **localized marketing strategies**.  
+- Designed strategies to engage **top 10 highest spenders** with personalized offers, attract **mid-term residents** (35% of total purchases), and incentivize **high-spending occupations** through financial benefits.  
+- Recommended enhancing promotions for the **most common purchase range (₹5k-₹10k)** and ensuring **consistent quality** for best-selling products to sustain demand and customer loyalty.  
+
+*Keywords:* Customer Segmentation, Black Friday Analysis, Purchase Behavior, Gender Insights, Targeted Marketing, Demand Forecasting, Loyalty Programs, Financial Incentives, Strategic Recommendations.
+[Git Repo Link](https://github.com/SreeMB/Wallmart_Data_Analysis)
+
