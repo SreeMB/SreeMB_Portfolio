@@ -6,14 +6,25 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 
 ## Technical Stack
 - **Programming Languages**: Python, SQL
-- **Python Packages and framework**: NumPy, Pandas, SciPy.
+- **Python Packages and framework**: NumPy, Pandas, SciPy, Sckit-Learn, Seaborn, Matplotlib, Statsmodels.
+- **ML Models**: Random Forest, Decision Tree, Gradient Boosting, Linear Regression.
 - **Data Visualization**: Tableau, Excel.
 - **Other Skills**: Data cleaning, statistical analysis, ETL processes, problem-solving
 - **Domain Knowledge**: Project management, operations, and tender processes
 
 ## Projects
 
-### **1. E-commerce Data Analysis: Target Brazil** - *Using SQL*
+### **DEMAND FORECASTING FOR SHARED BIKES**
+- Analyzed factors influencing demand for shared electric cycles using weather, seasonal, and user data, and built predictive models (CatBoost, AdaBoost, XGBoost) to optimize revenue strategies.
+- Deployed the best-performing model using Streamlit and Flask for real-time forecasting and decision-making.
+- Accuracy of 88.7% acheived.
+
+*Tools Used*: Module programming, Python, RandomForestRegressor, DecisionTreeRegressor, GradientBoostingRegressor, LinearRegression, XGBRegressor, CatBoostRegressor, AdaBoostRegressor, Streamlit, Flask, Pandas, NumPy, Matplotlib, Scikit-learn.
+*Metrics*: squared_error, friedman_mse, absolute_error, poisson.
+
+[Git Repo Link](https://github.com/SreeMB/BikeRide_Demand_prediction-EndtoEnd_MLproject)
+
+### **E-commerce Data Analysis: Target Brazil** - *Using SQL*
 - Conducted SQL-based analysis on **100,000 orders** over **772 days** to uncover key business insights for Target's Brazil operations.  
 - Mapped a **4119-city**, **27-state** customer base, identifying São Paulo as the top-performing region for orders and revenue, with significant untapped potential in remote areas like RR and RO.  
 - Unveiled sales seasonality, with **peak sales in November 2017 and January 2018**, attributed to New Year promotions. Recommended strategies to drive sales in off-peak months.  
@@ -26,7 +37,7 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 [Git Repo Link](https://github.com/SreeMB/TargetSQL_Brazil)
 
 
-### **2. Electric Vehicle Analysis** - *Using Tableau*
+### **Electric Vehicle Analysis** - *Using Tableau*
 - Analyzed **150,473 total electric vehicles (EVs)**, comprising **116,802 BEVs (77.62%)** and **33,671 PHEVs (22.38%)**, reflecting a clear dominance of fully electric models.  
 - Average electric range: **67.88 miles**, indicating moderate technological advancements in battery capacity and efficiency.  
 - Adoption Trends: Steady growth in EV registrations, peaking at **37,000 vehicles in 2023**, showing increased market acceptance.  
@@ -43,7 +54,7 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 [Tableau Link](https://public.tableau.com/app/profile/sree.mrudhula.bahadursha/viz/ElectricVehcileDataAnalysis/Dashboard1)
 
 
-### **3. Netflix Content Strategy Analysis** - *Using Python, Seaborn, Matplotlib*
+### **Netflix Content Strategy Analysis** - *Using Python, Seaborn, Matplotlib*
 
 - Conducted data-driven analysis to identify content production and audience trends across **multiple countries**.  
 - Insights revealed **70% of content** is movies, while TV shows are steadily increasing, appealing to **teenagers and adults** as the core audience.  
@@ -57,7 +68,7 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 [Git Repo Link](https://github.com/SreeMB/Netflix---Data-Visualization)
 
 
-### **4. Aerofit Treadmill Customer Profiling Analysis** - *Using Python, NumPy, Pandas, Seaborn, Matplotlib*
+### **Aerofit Treadmill Customer Profiling Analysis** - *Using Python, NumPy, Pandas, Seaborn, Matplotlib*
 
 - Conducted **descriptive analytics** and developed **customer profiles** for three treadmill models (KP281, KP481, KP781) based on customer characteristics such as **age, gender, income, marital status, and fitness levels**.  
 - Identified that **52.63% of female customers** prefer KP281, while **31.73% of male customers** prefer KP781, highlighting clear **gender-specific preferences**.  
@@ -69,7 +80,7 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 
 [Git Repo Lin](https://github.com/SreeMB/Aerofit_Data_Analysis)
 
-### **5. Walmart Black Friday Customer Purchase Behavior Analysis** - *Using Python, NumPy, Pandas, SciPy, Math, Seaborn, Matplotlib*
+### **Walmart Black Friday Customer Purchase Behavior Analysis** - *Using Python, NumPy, Pandas, SciPy, Math, Seaborn, Matplotlib*
 
 - Analyzed **purchase patterns** of **50 million male** and **50 million female customers** to understand **gender-specific spending habits** and factors influencing purchase behavior.  
 - Identified that **male customers spend more on average** than females, with unmarried customers and the **26-35 age group** being the highest spenders.  
