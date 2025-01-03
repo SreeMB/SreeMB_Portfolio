@@ -9,8 +9,9 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 - **Python Packages and framework**: NumPy, Pandas, SciPy, Sckit-Learn, Seaborn, Matplotlib, Statsmodels.
 - **ML Models**: Random Forest, Decision Tree, Gradient Boosting, Linear Regression.
 - **Data Visualization**: Tableau, Excel.
-- **Other Skills**: Data cleaning, statistical analysis, ETL processes, problem-solving
-- **Domain Knowledge**: Project management, operations, and tender processes
+- **Other Skills**: Data cleaning, statistical analysis, ETL processes, problem-solving, Modular Programming.
+- **Domain Knowledge**: Project management, operations, and tender processes.
+- **Deployment**: Streamlit, Flask.
 
 ## Projects
 
@@ -22,7 +23,7 @@ Your Text Innovative and Adaptive Professional Open to Roles in Data Science, AI
 *Tools Used*: Module programming, Python, RandomForestRegressor, DecisionTreeRegressor, GradientBoostingRegressor, LinearRegression, XGBRegressor, CatBoostRegressor, AdaBoostRegressor, Streamlit, Flask, Pandas, NumPy, Matplotlib, Scikit-learn.
 *Metrics*: squared_error, friedman_mse, absolute_error, poisson.
 
-[Git Repo Link](https://github.com/SreeMB/BikeRide_Demand_prediction-EndtoEnd_MLproject)
+[Git Repo Link](https://github.com/SreeMB/Demand_analysis_End-EndProject)
 
 ### **E-commerce Data Analysis: Target Brazil** - *Using SQL*
 - Conducted SQL-based analysis on **100,000 orders** over **772 days** to uncover key business insights for Target's Brazil operations.  
