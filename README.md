@@ -6,11 +6,11 @@ Innovative and Adaptive Professional Open to Roles in Data Science, AI, and ML A
 
 ## Technical Stack
 - **Programming Languages**: Python, SQL
-- **Python Packages and framework**: NumPy, Pandas, SciPy, Sckit-Learn, Seaborn, Matplotlib, Statsmodels.
+  - **Python Packages and framework**: NumPy, Pandas, SciPy, Sckit-Learn, Seaborn, Matplotlib, Statsmodels.
 - **ML Models**: Random Forest, Decision Tree, Gradient Boosting, Linear Regression.
 - **Data Visualization**: Tableau, Excel.
-- **Other Skills**: Data cleaning, statistical analysis, ETL processes, problem-solving, Modular Programming.
-- **Domain Knowledge**: Project management, operations, and tender processes.
+- **Other Skills**: Data cleaning, statistical analysis, ETL processes, problem-solving, Modular Programming, Product Analytics.
+- **Domain Knowledge**: Project management, Operations, and Tender processes.
 - **Deployment**: Streamlit, Flask.
 
 ## Projects
@@ -24,6 +24,17 @@ Innovative and Adaptive Professional Open to Roles in Data Science, AI, and ML A
 *Metrics*: squared_error, friedman_mse, absolute_error, poisson.
 
 [Git Repo Link](https://github.com/SreeMB/Demand_analysis_End-EndProject)
+
+
+### **Student Rank Predictor** - *End-End Project*
+- The Student Rank Predictor is a data-driven Machine Learning solution designed to analyze students' quiz performance and predict their NEET exam rank.
+- The model utilizes historical quiz data and real-time quiz submissions to assess topic-wise strengths, weaknesses, mistake patterns, and rank progression.
+
+*Tools Used*: Programming Languages: Python, Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Machine Learning Models: Random Forest, AdaBoost Regressor, Data Processing: OneHotEncoder, StandardScaler, SimpleImputer.
+*Metrics*: R² Score, MAE, and RMSE.
+
+[Git Repo Link](https://github.com/SreeMB/Rank_prediction/blob/main/README.md)
+
 
 ### **E-commerce Data Analysis: Target Brazil** - *Using SQL*
 - Conducted SQL-based analysis on **100,000 orders** over **772 days** to uncover key business insights for Target's Brazil operations.  
