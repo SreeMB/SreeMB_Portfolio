@@ -15,12 +15,12 @@ Innovative and Adaptive Professional Open to Roles in Data Science, AI, and ML A
 
 ## Projects
 
-### **DEMAND FORECASTING FOR SHARED BIKES**
+### **Bike Rental Demand prediction**
 - Analyzed factors influencing demand for shared electric cycles using weather, seasonal, and user data, and built predictive models (CatBoost, AdaBoost, XGBoost) to optimize revenue strategies.
 - Deployed the best-performing model using Streamlit and Flask for real-time forecasting and decision-making.
 - Accuracy of 88.7% acheived.
 
-*Tools Used*: Module programming, Python, RandomForestRegressor, DecisionTreeRegressor, GradientBoostingRegressor, LinearRegression, XGBRegressor, CatBoostRegressor, AdaBoostRegressor, Streamlit, Flask, Pandas, NumPy, Matplotlib, Scikit-learn.
+*Tools Used*: Module programming, Python,Matplotlib, seaborn, RandomForestRegressor, DecisionTreeRegressor, GradientBoostingRegressor, LinearRegression, XGBRegressor, CatBoostRegressor, AdaBoostRegressor, Streamlit, Flask, Pandas, NumPy, Matplotlib, Scikit-learn.
 *Metrics*: squared_error, friedman_mse, absolute_error, poisson.
 
 [Git Repo Link](https://github.com/SreeMB/Demand_analysis_End-EndProject)
